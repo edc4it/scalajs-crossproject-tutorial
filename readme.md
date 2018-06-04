@@ -1,0 +1,1 @@
+Solution code for https://www.edc4it.com/blog/scala/tutorial-shared-json-model-between-scalajs-and-scala-backend.html
